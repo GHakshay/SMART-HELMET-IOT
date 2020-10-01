@@ -3,7 +3,7 @@
     
 =====
 
-| NodeMCU  ||  C ++  ||  IOT  ||  WIFI 
+| NodeMCU  ||  C ++  ||  IOT  || WIFI 
 
 =====
 
